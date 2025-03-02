@@ -5,6 +5,10 @@ Implementace jednoduchý interpret ezoterického programovacího jazyka `ezop`, 
 
 - `I@`, `G@`, `O@`, `+`, `-`, `0`, `#`
 
+## Použité jazyky
+-Python
+-Markdown
+
 ## Podporované příkazy
 | Instrukce | Popis |
 |-----------|----------------------------------------------|
