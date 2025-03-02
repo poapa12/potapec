@@ -7,6 +7,7 @@ Implementace jednoduchý interpret ezoterického programovacího jazyka `ezop`, 
 
 ## Použité jazyky
 -Python
+
 -Markdown
 
 ## Podporované příkazy
